@@ -5,7 +5,7 @@ const portfolioData = {
             id: 1,
             title: "Money Tracker App",
             description: "Sebuah aplikasi pengelolaan keuangan pribadi yang dirancang dengan antarmuka bersih dan fungsional. Proyek ini berfokus pada kemudahan pencatatan transaksi harian secara akurat dan visual. Pencatatan Multimodal: Fitur input jumlah nominal dan deskripsi detail, disertai kemampuan mengunggah foto nota atau bukti transaksi untuk arsip digital yang lebih kuat. Log Transaksi Kronologis: Sistem pengorganisasian otomatis berdasarkan tanggal dan waktu transaksi, memudahkan pengguna untuk melacak riwayat pengeluaran secara historis.",
-            image: "https://static.vecteezy.com/system/resources/previews/019/053/701/original/money-symbol-icon-png.png",
+            image: "https://www.lifewire.com/thmb/4lr8KjIiQoTj5moZjTYTCHjmPZY=/4360x3040/filters:no_upscale():max_bytes(150000):strip_icc()/002_Cash_App-53e881bc1e8f4688a2ab762367fc1fb3.jpg",
             category: "development",
             programs: ["Web App", "UI Design", "JavaScript"],
             client: "Personal Project",
