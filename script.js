@@ -40,19 +40,6 @@ const portfolioData = {
             technologies: ["Python", "Pandas", "Scikit-Learn", "Matplotlib"],
             link: "#"
         },
-        {
-            id: 4,
-            title: "Optimasi Desain Layout & Database",
-            description: "Proyek ini mengatasi masalah buruknya visualisasi data pada sistem internal manajemen portofolio akibat struktur database lokal yang tidak rapi serta desain tata letak antarmuka yang membingungkan bagi pengguna. Solusi yang dihadirkan adalah perombakan total pada arsitektur kode dengan mengintegrasikan sistem penyimpanan terstruktur berbasis key-value storage untuk mempercepat sinkronisasi data, serta merancang ulang hierarki visual menggunakan tata letak grid yang konsisten, animasi transisi yang halus, dan komponen kartu dinamis yang responsif. Proyek ini juga mengimplementasikan sistem manajemen konten (Content Management System) internal langsung pada antarmuka, memungkinkan pembaruan teks, tautan, serta aset gambar secara real-time dan mandiri tanpa merusak estetika desain. Dalam proyek ini, peran saya adalah sebagai Full-Stack Developer sekaligus UI Designer yang bertanggung jawab penuh dalam membangun fungsi manipulasi data (tambah, edit, hapus), menata ulang arsitektur logika komponen, serta mengoptimalkan kode skrip agar penarikan informasi dan visualisasi aset pada layar pengguna berjalan dengan sangat cepat, interaktif, dan performan.",
-            image: "https://via.placeholder.com/400x300/06b6d4/FFFFFF?text=Optimasi+Database",
-            category: "design",
-            programs: ["JavaScript", "UI Design", "CMS"],
-            client: "Portfolio System",
-            duration: "1 month",
-            role: "Full-Stack Developer & UI Designer",
-            technologies: ["JavaScript", "HTML5", "CSS3", "Local Storage"],
-            link: "#"
-        }
     ]
 };
 
